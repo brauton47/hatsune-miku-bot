@@ -1,6 +1,5 @@
-# hatsune-miku-bot
 <p align="center">
-  <a href="#">
+  <a href="https://whatsapp.com/channel/0029VbC2606K0IBc9fNug21g">
     <img src="https://i.imgur.com/vH1fN9n.jpeg" alt="Banner Hatsune Miku Bot" style="width:100%;">
   </a>
 </p>
@@ -76,20 +75,13 @@ Este proyecto está bajo la [MIT License](sslocal://flow/file_open?url=LICENSE&f
 
 ---
 
-**Notas sobre el contenido:**
+**Para pegarlo en tu `README.md` en GitHub:**
 
-*   **`https://i.imgur.com/vH1fN9n.jpeg`**: Esta es la URL de la imagen de Hatsune Miku que me proporcionaste. La he puesto como un banner central.
-*   **Tus números y canal:** He incluido tus números de contacto y tu canal de WhatsApp.
-*   **Sección "Comenzando":** Esta es una sección general. Cuando decidamos cómo vas a alojar el bot (Termux, Replit, etc.), podemos detallar más los pasos específicos para esa plataforma.
-*   **Licencia:** Al final, he puesto `[MIT License](sslocal://flow/file_open?url=LICENSE&flow_extra=eyJsaW5rX3R5cGUiOiJjb2RlX2ludGVycHJldGVyIn0=)`. GitHub automáticamente hará que `LICENSE` sea un enlace a tu archivo de licencia.
+1.  **Ve a tu repositorio en GitHub** (desde el navegador de tu celular o la app).
+2.  **Abre el archivo `README.md`**.
+3.  Haz clic en el botón **"Editar"** (el icono del lápiz).
+4.  **Borra todo el contenido existente** en el editor.
+5.  **Pega el código completo** que te acabo de dar.
+6.  **Desplázate hacia abajo y haz clic en "Commit changes"** (o "Confirmar cambios"), añadiendo un mensaje si lo deseas (ej. "Actualizar README completo").
 
----
-
-Después de pegar todo el contenido:
-
-1.  **Baja hasta el final de la página de edición.**
-2.  **Escribe un mensaje de commit** (por ejemplo, "Actualizar README con descripción del bot").
-3.  Haz clic en **"Commit changes"**.
-
-¡Ahora tu repositorio tendrá un `README.md` atractivo y completo!
-
+¡Listo! Tu `README.md` tendrá la imagen, el canal y todos los detalles correctos.

@@ -1,0 +1,24 @@
+{
+  "name": "miku-bot",
+  "version": "1.0.0",
+  "description": "Mi bot personal de WhatsApp, con comandos únicos y reenvío a canal, ¡todo con la magia de Hatsune Miku!",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "qr": "node index.js --pairing-code"
+  },
+  "keywords": [
+    "whatsapp",
+    "bot",
+    "miku",
+    "baileys"
+  ],
+  "author": "TuNombreDeUsuarioGitHub",
+  "license": "MIT",
+  "dependencies": {
+    "@adiwajshing/baileys": "latest",
+    "qrcode-terminal": "^0.12.0",
+    "fs": "^0.0.1-security",
+    "pino": "^9.0.0"
+  }
+}

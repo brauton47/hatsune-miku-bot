@@ -75,13 +75,3 @@ Este proyecto está bajo la [MIT License](sslocal://flow/file_open?url=LICENSE&f
 
 ---
 
-**Para pegarlo en tu `README.md` en GitHub:**
-
-1.  **Ve a tu repositorio en GitHub** (desde el navegador de tu celular o la app).
-2.  **Abre el archivo `README.md`**.
-3.  Haz clic en el botón **"Editar"** (el icono del lápiz).
-4.  **Borra todo el contenido existente** en el editor.
-5.  **Pega el código completo** que te acabo de dar.
-6.  **Desplázate hacia abajo y haz clic en "Commit changes"** (o "Confirmar cambios"), añadiendo un mensaje si lo deseas (ej. "Actualizar README completo").
-
-¡Listo! Tu `README.md` tendrá la imagen, el canal y todos los detalles correctos.

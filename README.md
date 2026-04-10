@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://whatsapp.com/channel/0029VbC2606K0IBc9fNug21g">
-    <img src="https://whatsapp.com/channel/0029VbC2606K0IBc9fNug21g" alt="Banner Hatsune Miku Bot" style="width:100%;">
+    <img src="https://i.postimg.cc/PxQPJzth/Screenshot-20260410-023113.png" alt="Banner Hatsune Miku Bot" style="width:100%;">
   </a>
 </p>
 
